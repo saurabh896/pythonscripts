@@ -1,0 +1,11 @@
+Boolean:True,false
+Integer:-1,0,1
+Long:1234
+float:3.214567
+Complex:2+9J
+String:'This is string'
+Dictionary:{'A':'Item1','B':'Item2'}
+File:open('path/file_name')
+List:[1,2,3,4,5]
+Set:set(1,'ML',2)
+Tuple:[1,2,3,5]

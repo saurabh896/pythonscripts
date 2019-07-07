@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Apr 21 22:08:47 2019
+
+@author: User
+"""
+from matplotlib import pyplot as plt
+x=[5,2,9,4,7]
+y=[10,5,8,4,2]
+plt.plot(x,y)
+
+plt.show()
